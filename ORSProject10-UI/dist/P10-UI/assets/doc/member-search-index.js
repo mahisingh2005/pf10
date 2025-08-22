@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.rays.ctl","c":"CollegeCtl","l":"CollegeCtl()","url":"%3Cinit%3E()"},{"p":"com.rays.ctl","c":"CollegeCtl","l":"collegeService"},{"p":"com.rays.ctl","c":"CollegeCtl","l":"preload()"}]
